@@ -1,6 +1,6 @@
 # To-Do List App
 
-A simple and elegant To-Do List application built using Flutter, designed to help you keep track of your tasks and manage your time effectively.
+A simple and elegant To-Do List application built using Flutter, designed to help you keep track of your tasks and manage your time effectively. This application follows the MVC (Model-View-Controller) architecture for a structured and maintainable codebase.
 
 ## Screenshots
 
